@@ -1,0 +1,14 @@
+{
+  "name": "nuxt-spa-firebase",
+  "scripts": {
+    "dev": "nuxt",
+    "deploy": "nuxt generate && firebase deploy"
+  },
+  "dependencies": {
+    "firebase": "^7.10.0",
+    "nuxt": "^2.11.0"
+  },
+  "devDependencies": {
+    "core-js": "2.6.11"
+  }
+}
