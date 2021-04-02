@@ -5,10 +5,10 @@
     "deploy": "nuxt generate && firebase deploy"
   },
   "dependencies": {
-    "firebase": "^7.10.0",
-    "nuxt": "^2.11.0"
+    "firebase": "^8.3.2",
+    "nuxt": "^2.15.4"
   },
   "devDependencies": {
-    "core-js": "2.6.11"
+    "core-js": "3.10.0"
   }
 }
